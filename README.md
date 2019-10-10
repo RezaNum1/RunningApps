@@ -15,4 +15,4 @@ and a few months and a few years. This application created with Native programmi
 <h3>Update And Delete</h3>
 <p align="center"><img src="https://github.com/RezaNum1/RunningApps/blob/master/app/src/main/res/drawable/Screen_6.png" width="200px" height="300px"><img src="https://github.com/RezaNum1/RunningApps/blob/master/app/src/main/res/drawable/Screen_7.png" width="200px" height="300px"></p>
 
-<h2>Thank You :)</h3>
+<h3>------------------------------------------------------------------------------------------------------------</h3>
